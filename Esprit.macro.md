@@ -1,3 +1,13 @@
+# RollQuery pour un jet d'esprit
+
+Permet un jet de dées et calcul automatiquement 
+
+* Le modificateur de blessures Letal, non Letal, mental, ego et fatigue (chi)
+* Ajoute le modificateur d'esprit
+* Ajoute le modificateur de la skill
+* Roule le dé (selon la macro [D10](./ensemble-base.macroset.md#D10))
+
+```javascript
 ?{Esprit|
 Esprit        ,Esprit         ([[#D10 + #allmod + [[@{selected|ESP}]] + [[0]]                          ]]) |
 Bureaucratie  ,Bureaucratie   ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Bureaucratie}]]   ]]) | 
@@ -15,3 +25,4 @@ Pistage       ,Pistage        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{sele
 Premier Soins ,Premier Soins  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Premier Soins}]]  ]]) |
 Survie        ,Survie         ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Survie}]]         ]]) 
 } = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
+```
