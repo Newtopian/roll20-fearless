@@ -1,0 +1,8 @@
+&{template:default} 
+	{{name=Etat de @{selected|character_name} }}
+		{{ Total     = #allmod }}
+		{{ CHI       = #modCHI <==> @{selected|CHI}/@{selected|CHI|max} }}
+		{{ Mental    = #modMENTAL <==> @{selected|MENTAL}/@{selected|MENTAL|max} }}
+		{{ Ego       = #modEGO <==>  @{selected|EGO}/@{selected|EGO|max} }}
+		{{ Letal     = #modLETAUX <==> @{selected|LETAUX}/@{selected|LETAUX|max} }}
+		{{ Non Letal = #modNLETAUX <==> @{selected|NLETAUX}/@{selected|NLETAUX|max}}}
