@@ -9,7 +9,7 @@ Conduite,     Conduite     ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selecte
 Crochetage,   Crochetage   ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Crochetage}]]  ]]) |
 Discrétion,   Discrétion   ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Discrétion}]]  ]]) |
 Équitation,   Équitation   ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Équitation}]]  ]]) |
-Mêlée,        Mêlée        ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Mêlée AGI}]]   ]]) |
+Mêlée,        Mêlée        ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|MêléeAGI}]]   ]]) |
 Passe-passe,  Passe-passe  ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Passe-passe}]] ]]) |
 Tir,          Tir          ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Tir}]]         ]]) 
 } = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
