@@ -16,6 +16,7 @@ Enseignement,  Enseignement   ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{sele
 Influence,     Influence      ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{selected|Influence}]]      ]]) |
 Intimidation,  Intimidation   ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{selected|Intimidation}]]   ]]) |
 Séduction,     Séduction      ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{selected|Séduction}]]      ]]) |
+Mensonge,      Mensonge       ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{selected|Mensonge}]]       ]]) |
 Sens de la rue,Sens de la rue ([[#D10 + #allmod + [[@{selected|CHA}]] + [[%{selected|SensRue}]]        ]]) 
 } = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
 ```
