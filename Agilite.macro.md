@@ -12,5 +12,5 @@ Discrétion,   Discrétion   ([[#D10 + #allmod + [[@{selected|AGI}]] + [[@{selec
 Mêlée,        Mêlée        ([[#D10 + #allmod + [[@{selected|AGI}]] + [[@{selected|modArmure}]] + [[%{selected|MêléeAGI}]]     ]]) |
 Passe-passe,  Passe-passe  ([[#D10 + #allmod + [[@{selected|AGI}]] + [[@{selected|modArmure}]] + [[%{selected|PassePasse}]]   ]]) |
 Tir,          Tir          ([[#D10 + #allmod + [[@{selected|AGI}]] + [[@{selected|modArmure}]] + [[%{selected|Tir}]]          ]]) 
-} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
+} = D$[[0]] + mod$[[6]] + @$[[7]] + a$[[8]] + sk[[9]]
 ```
