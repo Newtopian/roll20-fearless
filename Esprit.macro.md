@@ -23,7 +23,7 @@ Musique       ,Musique        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{sele
 Navigation    ,Navigation     ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Navigation}]]     ]]) |
 Pistage,       Pistage        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Pistage}]]        ]]) |
 Premier Soins, Premier Soins  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|PremierSoins}]]   ]]) |
-Region(Song),  Region(Song)   ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Region_Song}]]   ]]) |
+Region(Song),  Region(Song)   ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Region_Song}]]    ]]) |
 Survie,        Survie         ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Survie}]]         ]]) 
-} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
+}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
 ```
