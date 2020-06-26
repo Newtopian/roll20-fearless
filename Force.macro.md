@@ -9,5 +9,5 @@ Canotage,    Canotage    ([[#D10 + #allmod + [[@{selected|FOR}]] + [[%{selected|
 Force brute, Force brute ([[#D10 + #allmod + [[@{selected|FOR}]] + [[%{selected|ForceBrute}]] + [[@{selected|modArmure}]]  ]]) |
 Mêlée,       Mêlée       ([[#D10 + #allmod + [[@{selected|FOR}]] + [[%{selected|MêléeFOR}]]   + [[0]]                      ]]) |
 Natation,    Natation    ([[#D10 + #allmod + [[@{selected|FOR}]] + [[%{selected|Natation}]]   + [[@{selected|modArmure}]]  ]]) 
-} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
+}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
 ```
