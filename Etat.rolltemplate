@@ -1,5 +1,5 @@
 &{template:default} 
-	{{name=Etat de @{selected|character_name} }}
+	{{name=Etat de @{selected|character_name} v1.0.0}}
 		{{ Total     = #allmod }}
 		{{ CHI       = #modCHI <==> @{selected|CHI}/@{selected|CHI|max} }}
 		{{ Mental    = #modMENTAL <==> @{selected|MENTAL}/@{selected|MENTAL|max} }}
