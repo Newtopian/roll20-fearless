@@ -25,5 +25,5 @@ Pistage,       Pistage        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{sele
 Premier Soins, Premier Soins  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|PremierSoins}]]   ]]) |
 Region(Song),  Region(Song)   ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Region_Song}]]    ]]) |
 Survie,        Survie         ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Survie}]]         ]]) 
-}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
+}&{v1.0.0}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]]
 ```
