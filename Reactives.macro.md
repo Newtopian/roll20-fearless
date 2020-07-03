@@ -21,5 +21,5 @@ Résistance,      Résistance      ([[#D10 + #allmod + [[@{selected|END}]] + [[%
 Ténacité,        Ténacité        ([[#D10 + #allmod + [[@{selected|END}]] + [[%{selected|Ténacité}]]       + [[0]] ]]) 
 
 
-}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
+}&{v1.0.0}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
 ```
