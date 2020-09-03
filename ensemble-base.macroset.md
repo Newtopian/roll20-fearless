@@ -8,7 +8,7 @@
 ```
 ## modCHI
 ```
-[[ floor( ( (abs(10 - @{selected|CHI}) + (10 - @{selected|CHI})) / 2) / -3) ]]
+[[ floor( ( (abs(9 - @{selected|CHI}) + (9 - @{selected|CHI})) / 2) / -3) ]]
 ```
 ## modEGO
 ```
