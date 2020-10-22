@@ -33,3 +33,8 @@ Le jet d'initiative comme lest autres doit se faire une fois le token sélection
 ```
 Initiative([[#D10 + @{selected|REF} + @{selected|INT} + #allmod &{tracker}]]) 
 ```
+
+## Image
+```
+[Image](?{Image URL|})
+```
