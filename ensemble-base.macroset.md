@@ -1,6 +1,6 @@
 ## D10
 ```
-[[ 1D10!cf<1cs>10 ]]
+[[ 1D10cf<1cs>10 ]]
 ```
 ## allmod
 ```
@@ -34,6 +34,11 @@ Le jet d'initiative comme lest autres doit se faire une fois le token sélection
 Initiative([[#D10 + @{selected|REF} + @{selected|INT} + #allmod &{tracker}]]) 
 ```
 
+## Critical
+le total d'un critique si le joueur décide re-rouer son 10 au lieu de faireune maneuvre
+```
+Total Critique ([[10 + 1D10!cs>10 ]]) 
+```
 ## Image
 ```
 [Image](?{Image URL|})
