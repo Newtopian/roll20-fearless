@@ -1,4 +1,5 @@
 # Jet d'Agilitée
+blablabla
 ```javascript
 ?{Agilité|
 Agilité,            Agilité           ([[#D10 + #allmod + [[@{selected|AGI}]] + [[0]]                           + [[@{selected|modArmure}]] ]]) |
