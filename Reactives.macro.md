@@ -3,6 +3,7 @@
 ```javascript
 ?{Reactives|
 Intuition,       Intuition       ([[#D10 + #allmod + [[@{selected|INT}]] + [[0]]                          + [[0]] ]]) |
+Empathie,      Empathie       ([[#D10 + #allmod + [[@{selected|INT}]] + [[%{selected|Empathie}]]       ]]) |
 Perception,      Perception      ([[#D10 + #allmod + [[@{selected|INT}]] + [[%{selected|Perception}]]     + [[0]] ]]) | 
 Touche-à-tout,   Touche-à-tout   ([[#D10 + #allmod + [[@{selected|INT}]] + [[%{selected|ToucheAtout}]]    + [[0]] ]]) |
 					
