@@ -25,8 +25,7 @@ Pilotage(Marin),    Pilotage(Marin)   ([[#D10 + #allmod + [[@{selected|AGI}]] + 
 Pilotage(Volant),   Pilotage(Volant)  ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloVolant}]]      + [[@{selected|modArmure}]] ]]) |
 Pilotage(Chasse),   Pilotage(Chasse)  ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloChasse}]]      + [[@{selected|modArmure}]] ]]) |
 Pilotage(Petit),    Pilotage(Petit)   ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloPetit}]]       + [[@{selected|modArmure}]] ]]) |
-Pilotage(Frégate),  Pilotage(Frégate) ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloFrégate}]]     + [[@{selected|modArmure}]] ]]) |
-Pilotage(Croiseurs),Pilotage(Croiseurs) ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloCroiseur}]]  + [[@{selected|modArmure}]] ]]) |
+Pilotage(Gros),  Pilotage(Gros) ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|PiloGros}]]     + [[@{selected|modArmure}]] ]]) |
 Tir,                Tir               ([[#D10 + #allmod + [[@{selected|AGI}]] + [[%{selected|Tir}]]             + [[0]] ]]) 
 }&{v1.0.1}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
 ```
