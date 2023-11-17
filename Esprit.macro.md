@@ -26,7 +26,7 @@ Médecine      ,Médecine       ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{se
 Musique       ,Musique        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Musique}]]        ]]) |
 Navigation    ,Navigation     ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Navigation}]]     ]]) |
 Pistage       ,Pistage        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Pistage}]]        ]]) |
-Premier Soins ,Premier Soins  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|PremierSoins}]]   ]]) |
+Premiers Soins ,Premiers Soins  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|PremiersSoins}]]   ]]) |
 Programmation ,Programmation  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Programmation}]]   ]]) |
 Region(Song)  ,Region(Song)   ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Region_Song}]]    ]]) |
 Survie        ,Survie         ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Survie}]]         ]]) |
