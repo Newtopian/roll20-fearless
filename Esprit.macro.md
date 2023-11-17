@@ -17,7 +17,7 @@ Communication ,Communication  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{sele
 Dissimulation ,Dissimulation  ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Dissimulation}]]  ]]) |
 Fouille       ,Fouille        ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Fouille}]]        ]]) |
 Guérison      ,Guérison       ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Guérison}]]       ]]) |
-Ingénerie     ,Ingénerie      ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Ingénerie}]]      ]]) |
+Ingénierie     ,Ingénierie      ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Ingénierie}]]      ]]) |
 Jeux          ,Jeux           ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Jeux}]]           ]]) |
 Lire et Écrire,Lire et Écrire ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|LireÉcrire}]]     ]]) |
 Mécanisme     ,Mécanisme      ([[#D10 + #allmod + [[@{selected|ESP}]] + [[%{selected|Mécanisme}]]      ]]) |
