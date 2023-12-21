@@ -1,0 +1,27 @@
+?{Vaisseau|
+IA,       IA       ([[#D10 + [[@{selected|IA}]] + [[0]]                          + [[0]] ]]) |
+Astrogation,      Astrogation       ([[#D10 + [[@{selected|INT}]] + [[%{selected|Astro}]]       ]]) |
+Optimisation,      Optimisation      ([[#D10 + [[@{selected|INT}]] + [[%{selected|Optimisation}]]     + [[0]] ]]) | 
+Personnalité,   Personnalité   ([[#D10 + [[@{selected|INT}]] + [[%{selected|Personnalité}]]    + [[0]] ]]) |
+					
+Confort,         Confort         ([[#D10 + [[@{selected|Confort}]] + [[0]]                          + [[0]] ]]) |
+Bringue,       Bringue       ([[#D10 + [[@{selected|Confort}]] + [[%{selected|Bring}]]         + [[0]] ]]) |
+Entraînement, Entraînement ([[#D10 + [[@{selected|Confort}]] + [[%{selected|Entraînement}]]    + [[0]] ]]) |
+					 
+Précision,       Précision         ([[#D10 + [[@{selected|Précision}]] + [[0]]                          + [[0]] ]]) |
+Ciblage,         Ciblage         ([[#D10 + [[@{selected|Précision}]] + [[%{selected|Ciblage}]]        + [[0]] ]]) |
+Pilotage,        Pilotage         ([[#D10 + [[@{selected|Précision}]] + [[%{selected|Pilot}]]        + [[0]] ]]) |
+					 
+Senseurs,       Senseurs       ([[#D10 + [[@{selected|Senseurs}]] + [[0]]                          + [[0]] ]]) |
+Communication,   Communication      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Communication}]]     + [[0]] ]]) |
+Détection,      Détection      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Détection}]]     + [[0]] ]]) |
+Sécurité,       Sécurité        ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Sécurité}]]       + [[0]] ]]) |
+
+Senseurs,       Senseurs       ([[#D10 + [[@{selected|Senseurs}]] + [[0]]                          + [[0]] ]]) |
+Communication,   Communication      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Communication}]]     + [[0]] ]]) |
+Détection,      Détection      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Détection}]]     + [[0]] ]]) |
+Sécurité,       Sécurité        ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Sécurité}]]       + [[0]] ]]) |
+
+Écrans,       Senseurs       ([[#D10 + [[@{selected|Écrans}]] + [[0]]                          + [[0]] ]])
+
+}&{v1.0.0}&{noerror} = D$[[0]] + mod$[[6]] + @$[[7]] + sk$[[8]] + a$[[9]]
