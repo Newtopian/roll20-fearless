@@ -12,19 +12,19 @@
 ```
 ## modEGO
 ```
-[[ floor( ( (abs(7 - @{selected|EGO}) + (7 - @{selected|EGO})) / 2) / -4) ]]
+[[ floor( ( (abs(12 - @{selected|EGO}) + (12 - @{selected|EGO})) / 2) / -6) ]]
 ```
 ## modLETAUX
 ```
-[[ floor( ( (abs(7 - @{selected|LETAUX}) + (7 - @{selected|LETAUX})) / 2) / -2) ]]
+[[ floor( ( (abs(12 - @{selected|LETAUX}) + (12 - @{selected|LETAUX})) / 2) / -3) ]]
 ```
 ## modMENTAL
 ```
-[[ floor( ( (abs(7 - @{selected|MENTAL}) + (7 - @{selected|MENTAL})) / 2) / -2) ]]
+[[ floor( ( (abs(12 - @{selected|MENTAL}) + (12 - @{selected|MENTAL})) / 2) / -3) ]]
 ```
 ## modNLETAUX
 ```
-[[ floor( ( (abs(7 - @{selected|NLETAUX}) + (7 - @{selected|NLETAUX})) / 2) / -4) ]]
+[[ floor( ( (abs(12 - @{selected|NLETAUX}) + (12 - @{selected|NLETAUX})) / 2) / -6) ]]
 ```
 
 ## Initiative
