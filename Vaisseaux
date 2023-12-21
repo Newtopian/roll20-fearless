@@ -17,10 +17,14 @@ Communication,   Communication      ([[#D10 + [[@{selected|Senseurs}]] + [[%{sel
 Détection,      Détection      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Détection}]]     + [[0]] ]]) |
 Sécurité,       Sécurité        ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Sécurité}]]       + [[0]] ]]) |
 
-Senseurs,       Senseurs       ([[#D10 + [[@{selected|Senseurs}]] + [[0]]                          + [[0]] ]]) |
-Communication,   Communication      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Communication}]]     + [[0]] ]]) |
-Détection,      Détection      ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Détection}]]     + [[0]] ]]) |
-Sécurité,       Sécurité        ([[#D10 + [[@{selected|Senseurs}]] + [[%{selected|Sécurité}]]       + [[0]] ]]) |
+Soutien,       Soutien       ([[#D10 + [[@{selected|Soutien}]] + [[0]]                          + [[0]] ]]) |
+Laboratoire,   Laboratoire      ([[#D10 + [[@{selected|Soutien}]] + [[%{selected|Laboratoire}]]     + [[0]] ]]) |
+Mécanique,      Mécanique      ([[#D10 + [[@{selected|Soutien}]] + [[%{selected|Mécan}]]     + [[0]] ]]) |
+Médical,       Médical        ([[#D10 + [[@{selected|Soutien}]] + [[%{selected|Médical}]]       + [[0]] ]]) |
+
+Maniabilité,   Maniabilité       ([[#D10 + [[@{selected|Maniabilité}]] + [[0]]                          + [[0]] ]]) |
+Esquive,   Esquive      ([[#D10 + [[@{selected|Maniabilité}]] + [[%{selected|Esquiv}]]     + [[0]] ]]) |
+Manoeuvre,      Manoeuvre      ([[#D10 + [[@{selected|Maniabilité}]] + [[%{selected|Manoeuvre}]]     + [[0]] ]]) |
 
 Écrans,       Senseurs       ([[#D10 + [[@{selected|Écrans}]] + [[0]]                          + [[0]] ]])
 
